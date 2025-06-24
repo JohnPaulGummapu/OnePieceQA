@@ -9,8 +9,8 @@ This project utilizes the Roberta-base model as its base Document Reader to answ
 To get started with using this tool, you might want to clone or download the repository.
 
 ```bash
-git clone https://github.com/Subodh7300/OnePiece-Question-Answering
-cd OnePiece-Question-Answering
+git clone https://github.com/JohnPaulGummapu/OnePieceQA
+cd OnePieceQA
 ```
 
 ## Dependencies
@@ -36,8 +36,4 @@ to discuss what you would like to change.
 
 As I am new to this, any contribution is welcome.
 
-## Want to contact me?
-* [Telegram](https://t.me/subodh79)
-* [LinkedIn](https://www.linkedin.com/in/subodh-uniyal-655328230)
-* [Instagram](https://www.instagram.com/subodh_7300/)
-* [Email](s.subodh7976@gmail.com)
+
